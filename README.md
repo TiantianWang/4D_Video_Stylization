@@ -6,9 +6,10 @@
 
 Code is coming soon.
 
+Supplementary video:
 <!-- [![4dvideostylization](https://github.com/TiantianWang/4D_Video_Stylization/assets/24403576/ea143eab-1927-4f99-849d-7b2769454227)](https://youtu.be/TUAlr60tN6k)
  -->
-[4dvideostylization]([https://github.com/TiantianWang/4D_Video_Stylization/assets/24403576/ea143eab-1927-4f99-849d-7b2769454227](https://github.com/user-attachments/assets/099c6985-a7c4-4210-8146-0450237c2436)]
+[4dvideostylization](https://github.com/user-attachments/assets/099c6985-a7c4-4210-8146-0450237c2436)
 
 
 
